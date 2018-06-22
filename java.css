@@ -1,0 +1,129 @@
+*{
+	margin: 1px 1px 1px 1px ;
+	padding: 1px 5px 1px 5px;
+}
+
+
+#wrapper {
+	background-color: #1B335D;
+	margin: 0px; auto;
+	width: 970px;
+	height: 760px;
+}
+#header {
+	height: 80px;
+	margin: 2px 1px 2px 3px;
+	background-color: #CF2F36;
+}
+.header_title {
+	padding: 15px 1px 1px 10px;
+}
+#link_box {
+	margin: 10px 1px 3px .5px;
+	width: 200px;
+	height: 230px;
+	background-color: #2A7D8C;
+	font-size: 14px;
+	padding: 10px 1px 1px 20px;
+}	
+	a{
+		color: #4FC9E2
+	}
+	h1{
+		color: #C2D6EB
+	}
+	p{
+		color: #BDCEDD
+	}
+
+#javascripts_Basic {
+background-color: #0E1822;
+min-height: 550px;
+width: 710px;
+margin: 20px 10px 20px 20px;
+padding: 0px 0px 0px 2px;
+}
+
+
+.Variable_dec {
+
+ 
+ margin-left: 12px;
+ font-size: 13.5px;
+
+}
+em{
+	text-decoration:underline;
+	font-style: normal;
+	margin-left: -9px;
+}
+span{
+	color: #6C6DC1;
+}
+.Variable_assign {
+	font-size: 13.5px;
+	margin-left: 12px;
+}
+.Variable_assign span  {
+	color: #6C6DC1;
+}
+.Data_ty {
+	font-size: 13.5px;
+	margin-left: 12px;
+}
+#Variable_dec, #variable_para {
+display: inline-block;
+}
+#Variable_assign {
+	text-decoration: underline;
+}
+li {
+	color: white;
+	
+}
+ul {
+	margin-left: 10px;
+}
+#javascripts_Basic h1 {
+	margin-top: 10px;
+}
+
+.basics_para {
+	font-size: 13px;
+	margin: 1px;
+	margin-bottom: 1px;
+}
+.Conditionals_ { 
+	font-size: 13.5px;
+	margin-left: 12px;
+}
+.Loops_ {
+	font-size: 13.5px;
+	margin-left: 12px;
+}
+.functions_{
+	font-size: 13.5px;
+	margin-left: 12px;
+}
+#link_box , #javascripts_Basic {
+	display: inline-block;
+	vertical-align: top;
+}
+#tips {
+	background-color: #5D6673;
+	width:930px;
+	height: 50px;
+	margin: 10px 20px 20px 20px;
+}
+.url_link {
+	padding: 15px 1px 5px 10px
+}
+.useful_tips {
+	color: #BED0E1
+}
+.java_link{
+	color:#64B5B7
+}
+#header , #link_box , #javascripts_Basic , #tips {
+	border-radius: 10px;
+}
